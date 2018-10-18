@@ -15,7 +15,7 @@
 	integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp"
 	crossorigin="anonymous">
 
-<title>Insert title here</title>
+<title>BiblioManga</title>
 </head>
 <header>
 	<nav class="navbar navbar-default">
@@ -25,11 +25,11 @@
 				<button type="button" class="navbar-toggle collapsed"
 					data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"
 					aria-expanded="false">
-					<span class="sr-only">Toggle navigation</span> <span
+					<span class="sr-only">Navigation</span> <span
 						class="icon-bar"></span> <span class="icon-bar"></span> <span
 						class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="#">Brand</a>
+				<a class="navbar-brand" href="#">BiblioManga</a>
 			</div>
 
 			<!-- Collect the nav links, forms, and other content for toggling -->
